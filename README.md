@@ -6,7 +6,7 @@ Recipe App is a responsive and mobile friendly app built with React and useState
 
 ## Live Demo
 
-The application is hosted on netlify and can be accessed at the following web address: []()
+The application is hosted on netlify and can be accessed at the following web address: [https://sad-goldwasser-d36db2.netlify.app/](https://sad-goldwasser-d36db2.netlify.app/)
 
 ## Screenshot
 
