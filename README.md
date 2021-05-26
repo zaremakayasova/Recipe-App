@@ -1,7 +1,8 @@
 # Recipe App
 Food Recipe App. Search for a recipe with certain ingredients and view a full recipe.
 
-Project uses Edamam API to fetch recipes. Recipe App is a responsive and mobile friendly app built with React and useState and useEfect hooks.
+Project uses Edamam API to fetch recipes.
+Recipe App is a responsive and mobile friendly app built with React and useState and useEfect hooks.
 
 ## Live Demo
 
